@@ -1,0 +1,4 @@
+var posts2016 = [
+{"is_played":1,"topic_tag":"The Legend of Zelda: heldenstrijd","subtype_class":"post-subtype-label-via-api","mii":"puzzled","body":"Wat een verschrikkelijk level.","community":"14866558072985245727","created_at":"13-02-2016 13:33","subtype":"Vanuit de game","id":"AYQHAAABAAAtVHhpo9lsyw","empathy_count":"4"},
+{"is_played":1,"topic_tag":"Op avontuur met de Pikmin","subtype_class":"post-subtype-label-via-api","mii":"happy","body":"Chaos is grappig.","community":"14866558072985245727","created_at":"08-02-2016 10:45","subtype":"Vanuit de game","id":"AYQHAAABAAAtVHhpk0w5sg","empathy_count":"5"},
+]
